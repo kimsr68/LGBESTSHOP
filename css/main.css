@@ -98,19 +98,19 @@ header .sns ul li {
 /*슬라이드 - swiper*/
 .swiper1 { height: 100%;}
 .slide .s1 {
-    background-image: url(../img/s1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/kimsr68/LGBESTSHOP/img/s1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .slide .s2 {
-    background-image: url(../img/s2.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/kimsr68/LGBESTSHOP/img/s2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .slide .s3 {
-    background-image: url(../img/s3.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/kimsr68/LGBESTSHOP/img/s3.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -225,13 +225,13 @@ header .sns ul li {
     transform: scale(1,1);
 }
 .b1 .motion .image {
-    background-image: url('../img/100.png');
+    background-image: url('https://cdn.jsdelivr.net/gh/kimsr68/LGBESTSHOP/img/100.png');
 }
 .b2 .motion .image {
-    background-image: url('../img/101.png');
+    background-image: url('https://cdn.jsdelivr.net/gh/kimsr68/LGBESTSHOP/img/101.png');
 }
 .banner{ 
-    background-image: url(../img/b.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/kimsr68/LGBESTSHOP/img/b.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -288,7 +288,7 @@ header .sns ul li {
 }
 /*item-cluture archive*/
 .item {
-    background-image: url(../img/10.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/kimsr68/LGBESTSHOP/img/10.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -777,9 +777,9 @@ footer .footer_wrap .addr p {
         
         
         
-    .slide .s1 { background-image: url(../img/ts1.png);}
-    .slide .s2 { background-image: url(../img/ts2.png);}
-    .slide .s3 { background-image: url(../img/ts3.png);}
+    .slide .s1 { background-image: url(https://cdn.jsdelivr.net/gh/kimsr68/LGBESTSHOP/img/ts1.png);}
+    .slide .s2 { background-image: url(https://cdn.jsdelivr.net/gh/kimsr68/LGBESTSHOP/img/ts2.png);}
+    .slide .s3 { background-image: url(https://cdn.jsdelivr.net/gh/kimsr68/LGBESTSHOP/img/ts3.png);}
     
 }
 
